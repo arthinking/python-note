@@ -35,9 +35,6 @@ PyDev - Python IDE for Ecilpse
 
 ::
 
-'''
-Created on 2014-2-28
-'''
 print("hello world")
 
 运行快捷键：ctrl + f11
