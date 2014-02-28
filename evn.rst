@@ -33,20 +33,12 @@ PyDev - Python IDE for Ecilpse
 
 在工程里面创建一个HelloWorld.py文件：
 
-.. parsed-literal::
+::
 
 '''
 Created on 2014-2-28
 '''
 print("hello world")
-
-.. @example.prepend('#include <cassert>')
-.. @example.replace_emphasis('''
-   assert(title == "foo");
-   assert(height == 20);
-   assert(width == 400);
-   ''')
-
 
 运行快捷键：ctrl + f11
 ~~~~~~~~~~~~~~~~~~~~
