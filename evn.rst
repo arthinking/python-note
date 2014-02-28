@@ -1,50 +1,42 @@
-¹ÙÍøÏÂÔØ°²×°°ü²¢°²×°£º
-=====================
+ï»¿å®˜ç½‘ä¸‹è½½å®‰è£…åŒ…å¹¶å®‰è£…ï¼š
+---------------------
 
 http://www.python.org/downloads/
 
-µ½Eclipse MarketplaceÖĞ°²×°²å¼ş£º
-================================
+åˆ°Eclipse Marketplaceä¸­å®‰è£…æ’ä»¶ï¼š
+--------------------------------
 
 PyDev - Python IDE for Ecilpse
 
-£¨ÓÉÓÚÍøÂçÎÊÌâÏÂÔØÊ§°Ü£¬¿ÉÒÔ³¢ÊÔÍ¨¹ıInstall New Software...°²×°£ºLocation: http://pydev.org/updates£©
+ï¼ˆç”±äºç½‘ç»œé—®é¢˜ä¸‹è½½å¤±è´¥ï¼Œå¯ä»¥å°è¯•é€šè¿‡Install New Software...å®‰è£…ï¼šLocation: http://pydev.org/updatesï¼‰
 
-»òÕßÖ±½Óµ½£ºhttp://sourceforge.net/projects/pydev/files/ÏÂÔØPyDev for Eclipse.zip£¬½âÑ¹µÃµ½pluginºÍfeatureÁ½¸öÄ¿Â¼£¬·Ö±ğ½«pluginsºÍfeatureÄ¿Â¼ÏÂµÄËùÓĞÎÄ¼ş¸´ÖÆµ½eclipseµÄÏàÓ¦Ä¿Â¼ÏÂ£¬×îºóÆô¶¯Eclipse¼´¿É
+æˆ–è€…ç›´æ¥åˆ°ï¼šhttp://sourceforge.net/projects/pydev/files/ä¸‹è½½PyDev for Eclipse.zipï¼Œè§£å‹å¾—åˆ°pluginå’Œfeatureä¸¤ä¸ªç›®å½•ï¼Œåˆ†åˆ«å°†pluginså’Œfeatureç›®å½•ä¸‹çš„æ‰€æœ‰æ–‡ä»¶å¤åˆ¶åˆ°eclipseçš„ç›¸åº”ç›®å½•ä¸‹ï¼Œæœ€åå¯åŠ¨Eclipseå³å¯
 
-ÖØÆôEclipse£¬ÉèÖÃEclipseµÄPydevµÄ²å¼şµÄ»·¾³
-===========================================
+é‡å¯Eclipseï¼Œè®¾ç½®Eclipseçš„Pydevçš„æ’ä»¶çš„ç¯å¢ƒ
+-------------------------------------------
 
-½ØÍ¼£º001 http://www.cnblogs.com/xuqiang/archive/2011/04/18/2019484.html
-Ñ¡Ôñ¸Õ²ÅPython°²×°°üÅ¶ÏÂµÄpython.exe½âÎöÆ÷
+æˆªå›¾ï¼š001 http://www.cnblogs.com/xuqiang/archive/2011/04/18/2019484.html
+é€‰æ‹©åˆšæ‰Pythonå®‰è£…åŒ…å“¦ä¸‹çš„python.exeè§£æå™¨
 
-Ê¹ÓÃEclipse´´½¨Ò»¸öHello World!
-===============================
+ä½¿ç”¨Eclipseåˆ›å»ºä¸€ä¸ªHello World!
+-------------------------------
 
-ĞÂ½¨Ò»¸öpython¹¤³Ì
-------------------
+æ–°å»ºä¸€ä¸ªpythonå·¥ç¨‹
+~~~~~~~~~~~~~~~~~~
 
-ÔÚ¹¤³ÌÀïÃæ´´½¨Ò»¸öHelloWorld.pyÎÄ¼ş£º
+åœ¨å·¥ç¨‹é‡Œé¢åˆ›å»ºä¸€ä¸ªHelloWorld.pyæ–‡ä»¶ï¼š
 
 .. code:: python
 
 '''
-Created on 2011-4-18
-
-@author: xuqiang
+Created on 2014-2-28
 '''
 print("hello world")
 
-ÔËĞĞ¿ì½İ¼ü£ºctrl + f11
+è¿è¡Œå¿«æ·é”®ï¼šctrl + f11
+~~~~~~~~~~~~~~~~~~~~~~
+
+è°ƒè¯•ï¼š
 ----------------------
 
-µ÷ÊÔ£º
-=======================
-
-ºÍJavaµ÷ÊÔ»ù±¾Ò»ÖÂ
-
-
-
-
-
-
+å’ŒJavaè°ƒè¯•åŸºæœ¬ä¸€è‡´
