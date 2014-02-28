@@ -1,5 +1,5 @@
 +++++++++++++++++++++++++
-python-note
+ python-note
 +++++++++++++++++++++++++
 
 Eclipse下Python开发环境搭建
@@ -39,6 +39,14 @@ PyDev - Python IDE for Ecilpse
 Created on 2014-2-28
 '''
 print("hello world")
+
+.. @example.prepend('#include <cassert>')
+.. @example.replace_emphasis('''
+   assert(title == "foo");
+   assert(height == 20);
+   assert(width == 400);
+   ''')
+
 
 运行快捷键：ctrl + f11
 ~~~~~~~~~~~~~~~~~~~~
